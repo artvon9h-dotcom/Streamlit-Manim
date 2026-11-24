@@ -71,7 +71,7 @@ def trang_chu():
     st.title("Khoảng cách giữa hai mặt phẳng song song")
     st.markdown("**Toán 11 – Học liệu dạy học trực quan**")
     st.markdown(
-        "Trang web gồm **6 bài tập** xếp theo mức độ Biết, Hiểu, Vận dụng. "
+        "Trang web gồm **6 bài tập** xếp từ mức nhận biết đến vận dụng cao. "
         "Mỗi bài có mô hình **GeoGebra 3D** để xoay hình, kéo điểm, và một số bài có "
         "**video hoạt họa Manim** minh họa lời giải."
     )
