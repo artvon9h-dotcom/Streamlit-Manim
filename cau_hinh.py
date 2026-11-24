@@ -17,9 +17,9 @@ LINK_GEOGEBRA = {
 # Video Manim cho từng bài (file nằm trong thư mục videos/).
 # Bài nào không có video thì không ghi.
 VIDEO = {
-    1: "videos/bai1_can_phong.mp4",
-    4: "videos/bai4_lang_tru_xien.mp4",
-    5: "videos/bai5_lap_phuong.mp4",
+    1: "bai1_can_phong.mp4",
+    4: "bai4_lang_tru_xien.mp4",
+    5: "bai5_lap_phuong.mp4",
 }
 
 TEN_NHOM = "Nhóm nghiên cứu – Khoa Sư phạm, Trường Đại học Hạ Long"
